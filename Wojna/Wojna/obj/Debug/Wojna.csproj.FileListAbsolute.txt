@@ -1,0 +1,6 @@
+C:\Users\Bartek\Desktop\szkoła\6 semestr\Akademia C#\Wojna\Wojna\bin\Debug\Wojna.exe.config
+C:\Users\Bartek\Desktop\szkoła\6 semestr\Akademia C#\Wojna\Wojna\bin\Debug\Wojna.exe
+C:\Users\Bartek\Desktop\szkoła\6 semestr\Akademia C#\Wojna\Wojna\bin\Debug\Wojna.pdb
+C:\Users\Bartek\Desktop\szkoła\6 semestr\Akademia C#\Wojna\Wojna\obj\Debug\Wojna.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Desktop\szkoła\6 semestr\Akademia C#\Wojna\Wojna\obj\Debug\Wojna.exe
+C:\Users\Bartek\Desktop\szkoła\6 semestr\Akademia C#\Wojna\Wojna\obj\Debug\Wojna.pdb
